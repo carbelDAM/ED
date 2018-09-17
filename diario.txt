@@ -1,0 +1,11 @@
+20180917
+VirtualBOX (Pendiente de anotar)
+
+git:
+
+git config --global user.name carbelDAM
+git config --global user.email 1dam.cgalicia@institutoserpis.org
+git clone https://github.com/carbelDAM/ED.git
+git config --global push.default simple
+git config --list
+
