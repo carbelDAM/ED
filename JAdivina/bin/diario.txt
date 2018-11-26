@@ -1,0 +1,23 @@
+20180917
+VirtualBox (pendiente de anotar)
+
+git:
+crar usuario y repositorio en github (pendiente de anotar)
+
+git clone https://github.com/aarpeiDAM/ed.git
+git config --global user.name "name"
+git config -- global user.email "email"
+git config --global push.default simple
+
+git add <archivo> Para añadr un archivo que queremos que forme parte del repositorio.
+
+git commit -m "Mensaje" Crea una nueva versión.
+
+20180924
+
+Hemos instalado el jdk de java8, para ello hemos añadido el repositorio de java con el comando: sudo apt-add-repository ppa:webupd8team/java
+A continuación actualizamos los repositorios: sudo apt upadte
+Por último los instalamos: sudo apt install oracle-java8-installer 
+
+Cuando compilamos en java un fichero tendremos el fichero de partida y obtendremos uno nuevo con el nombre "<nombre>.class", en dicho archivo estara el código ejecutable en jre.
+
