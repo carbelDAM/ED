@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2A1F62C5-0ECE-41C2-898C-9C938CA545C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CGtk/MainWindow.cs">
+    <Files>
+      <File FileName="CGtk/Program.cs" Line="1" Column="1" />
+      <File FileName="CGtk/MainWindow.cs" Line="17" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CGtk PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

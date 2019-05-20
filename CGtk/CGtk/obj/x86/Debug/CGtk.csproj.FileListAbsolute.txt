@@ -1,0 +1,6 @@
+/home/carbel/ED/CGtk/CGtk/bin/Debug/CGtk.exe
+/home/carbel/ED/CGtk/CGtk/bin/Debug/CGtk.pdb
+/home/carbel/ED/CGtk/CGtk/obj/x86/Debug/CGtk.csprojAssemblyReference.cache
+/home/carbel/ED/CGtk/CGtk/obj/x86/Debug/CGtk.csproj.CoreCompileInputs.cache
+/home/carbel/ED/CGtk/CGtk/obj/x86/Debug/CGtk.exe
+/home/carbel/ED/CGtk/CGtk/obj/x86/Debug/CGtk.pdb
